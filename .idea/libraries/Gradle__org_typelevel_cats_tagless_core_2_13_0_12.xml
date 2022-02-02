@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.typelevel:cats-tagless-core_2.13:0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-tagless-core_2.13/0.12/32bc693d8b3b5abd0bf9adf8412f9c3757e2cc4a/cats-tagless-core_2.13-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-tagless-core_2.13/0.12/22d72fb9dc72c94e4c7dc3dcd8bca19a0c4e8023/cats-tagless-core_2.13-0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

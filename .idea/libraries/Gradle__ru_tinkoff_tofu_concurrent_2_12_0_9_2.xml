@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.tinkoff:tofu-concurrent_2.12:0.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.tinkoff/tofu-concurrent_2.12/0.9.2/7d679259d97675821501db77e9704b843e8f21a1/tofu-concurrent_2.12-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.tinkoff/tofu-concurrent_2.12/0.9.2/b4680b02a9b68f415e36d5265925fb5b5d4a7b82/tofu-concurrent_2.12-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.tinkoff:tofu-logging-util_2.12:0.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.tinkoff/tofu-logging-util_2.12/0.9.2/3079f56251a9fd8be5a207e729a7e8322c9d03a7/tofu-logging-util_2.12-0.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.tinkoff/tofu-logging-util_2.12/0.9.2/834bdaab61449117b25281bf0068548ee105fbc4/tofu-logging-util_2.12-0.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

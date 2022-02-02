@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.typelevel:alleycats-core_2.13:2.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/alleycats-core_2.13/2.4.1/635b3d886680b2d15f30fb460fadc86d1599db87/alleycats-core_2.13-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/alleycats-core_2.13/2.4.1/764f1b2633b6b016946ec7e7d2a8a49cb38d103a/alleycats-core_2.13-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

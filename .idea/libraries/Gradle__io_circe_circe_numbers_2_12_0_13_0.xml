@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.circe:circe-numbers_2.12:0.13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.circe/circe-numbers_2.12/0.13.0/4bc2d4e6bd169aa36da29e8305c4ec3dc0b7c8e8/circe-numbers_2.12-0.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.circe/circe-numbers_2.12/0.13.0/9084661291b6ab86b4a68f4ab2fb4ba813f6503b/circe-numbers_2.12-0.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.simonmittag:loggingutils:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simonmittag/loggingutils/1.0/3a232a9a96c47e0b5497ff27a0363b37aae81ee5/loggingutils-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simonmittag/loggingutils/1.0/78e66076c91931aaa47368b946ebba4adb393c39/loggingutils-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

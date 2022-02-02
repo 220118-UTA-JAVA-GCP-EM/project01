@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tethys-json:tethys-jackson_2.13:0.21.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tethys-json/tethys-jackson_2.13/0.21.0/3c5b5470a2dcd0eee9590f2fbb3730b039fb6805/tethys-jackson_2.13-0.21.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tethys-json/tethys-jackson_2.13/0.21.0/873c6f199eef3dfc8e8b8cf2587e4fadf7e21760/tethys-jackson_2.13-0.21.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

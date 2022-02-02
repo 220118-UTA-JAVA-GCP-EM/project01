@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.typelevel:cats-kernel_2.12:2.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-kernel_2.12/2.4.1/8e9ddc37ff2c07e1375d5fabdfebaf0a7d38cd55/cats-kernel_2.12-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-kernel_2.12/2.4.1/f28d39d97623fa82d6af89a069f662229c9d36eb/cats-kernel_2.12-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

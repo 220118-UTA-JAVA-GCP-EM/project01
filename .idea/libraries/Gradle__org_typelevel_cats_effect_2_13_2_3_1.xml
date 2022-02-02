@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.typelevel:cats-effect_2.13:2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-effect_2.13/2.3.1/21c0fe60b4896c338828edb0893dc9122b7751ea/cats-effect_2.13-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.typelevel/cats-effect_2.13/2.3.1/664e155b66d364e944f2fe4666b9a52a1b51358a/cats-effect_2.13-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
